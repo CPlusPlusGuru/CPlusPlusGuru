@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CPlusPlusGuru
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning .NET framework 
 - 📫 How to reach me :
 -    email : skanderbenkhanchouch@gmail.com
 -    email : skabenkh@gmail.com
